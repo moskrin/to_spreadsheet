@@ -30,6 +30,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'rails'
   s.add_dependency 'nokogiri'
   s.add_dependency 'spreadsheet'
+  s.add_dependency 'responders'
   s.add_development_dependency 'mocha'
   s.add_development_dependency 'sqlite3-ruby'
 end
